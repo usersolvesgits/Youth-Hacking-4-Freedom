@@ -1,4 +1,19 @@
-# 📄  NewCV 
+# 📄  TODO 
+
+---
+
+## 📚 Table of Contents
+
+> Navigate the project with ease:
+
+- **General Overview** — [What Is Youth Hacking 4 Freedom?](#-general-overview--what-is-youth-hacking-4-freedom-yh4f)
+- **Project Overview** — [Summary of the project](#-project-overview)
+- **Getting Started** — [Installation & setup](#-getting-started)
+- **Tech Stack** — [Tools & technologies](#️-tech-stack)
+- **Team Members** — [Meet the creators](#-team-members)
+- **Contributing** — [How to help the growth of TODO](#-contributing)
+- **Acknowledgements** — [Special thanks](#️-acknowledgements--special-thanks)
+
 
 ---
 
@@ -20,7 +35,16 @@ You can find more details about the people behind the project in the [👥 Team 
 
 ---
 
-## 🚀 Getting Started
+## 🛠️ Tech Stack
+| Category | Technologies |
+|----------|--------------|
+| Frontend | NextJS |
+| Backend | FastAPI |
+| Database | MongoDB |
+
+---
+
+## 🧰 Getting Started
 
 ### 1. How do I clone this repository?
 
@@ -38,15 +62,6 @@ https://github.com/usersolvesgits/Youth-Hacking-4-Freedom
 ```
 2. Open **GitHub Desktop** and select **File -> Clone Repository -> URL**.
 3. Paste the URL and choose a local folder to clone the project.
-
----
-
-## 🛠️ Tech Stack
-| Category | Technologies |
-|----------|--------------|
-| Frontend | NextJS |
-| Backend | FastAPI |
-| Database | MongoDB |
 
 ---
 
@@ -76,6 +91,6 @@ We believe **collaboration and contribution are a key part of free software**.
 
 ## ❤️ Acknowledgements / Special Thanks
 
-- **FSFE** for organizing *Youth Hacking 4 Freedom*
+- **FSFE** for organizing ***Youth Hacking 4 Freedom***
 - All contributors and testers
 - The Free Software community
