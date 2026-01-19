@@ -8,8 +8,8 @@
 
 - **General Overview** — [What Is Youth Hacking 4 Freedom?](#-general-overview--what-is-youth-hacking-4-freedom-yh4f)
 - **Project Overview** — [Summary of the project](#-project-overview)
-- **Getting Started** — [Installation & setup](#-getting-started)
 - **Tech Stack** — [Tools & technologies](#️-tech-stack)
+- **Getting Started** — [Installation & setup](#-getting-started)
 - **Team Members** — [Meet the creators](#-team-members)
 - **Contributing** — [How to help the growth of TODO](#-contributing)
 - **Acknowledgements** — [Special thanks](#️-acknowledgements--special-thanks)
