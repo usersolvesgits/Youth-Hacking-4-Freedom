@@ -18,11 +18,11 @@ The contest introduces teenagers to the principles of Free Software and responsi
 ## 👥 Team Members
 | Name | Role | Contacts / Links | Nationality |
 |------|------|------------------| ----------- |
-| Bianchini Francesco | Back-end Developer | [:octocat:GitHub](https://github.com/usersolvesgits) | 🇮🇹 |
-| Giorgio Alessandro | Back-End Developer | **TODO** | 🇮🇹 |
-| Lobianco Alessandro | Front-End Developer | [:octocat:GitHub](https://github.com/Loby998) | 🇮🇹 |
-| Madonia Francesco | Front-End Developer | [:octocat:GitHub](https://github.com/FraMadonia) | 🇮🇹 |
-| Tricarico Tommaso Gianluca | Full-Stack Developer | [:octocat:GitHub](https://github.com/sniphe17) | 🇮🇹 |
+| Bianchini Francesco | Back-end Developer | [:octocat:GitHub](https://github.com/usersolvesgits) | :it: |
+| Giorgio Alessandro | Back-End Developer | [:octocat:GitHub](https://github.com/AlessandroGio1) | :it: |
+| Lobianco Alessandro | Front-End Developer | [:octocat:GitHub](https://github.com/Loby998) | :it: |
+| Madonia Francesco | Front-End Developer | [:octocat:GitHub](https://github.com/FraMadonia) | :it: |
+| Tricarico Tommaso Gianluca | Full-Stack Developer | [:octocat:GitHub](https://github.com/sniphe17) | :it: |
 
 ---
 
@@ -30,9 +30,9 @@ The contest introduces teenagers to the principles of Free Software and responsi
 **TODO: COMPILARE/AGGIUNGERE CAMPI**
 | Category | Technologies |
 |----------|--------------|
-| Frontend | ... |
-| Backend | ... |
-| Database | ... |
+| Frontend | NextJS |
+| Backend | FastAPI |
+| Database | MongoDB |
 
 ---
 
