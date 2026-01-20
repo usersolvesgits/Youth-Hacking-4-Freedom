@@ -12,6 +12,7 @@
 - **Getting Started** — [Installation & setup](#-getting-started)
 - **Team Members** — [Meet the creators](#-team-members)
 - **Contributing** — [How to help the growth of TODO](#-contributing)
+- **Licence** - [Usage & permissions](#-licence)
 - **Acknowledgements** — [Special thanks](#️-acknowledgements--special-thanks)
 
 
@@ -86,6 +87,24 @@ If you have ideas or suggestions, feel free to:
 - Fork the project and experiment
 
 We believe **collaboration and contribution are a key part of free software**.
+
+---
+
+## 📜 Licence
+
+This project is free software and is released under the  
+**GNU General Public License v3.0 (GPL-3.0)**.
+
+You are free to:
+- Use the software for any purpose
+- Study how the program works and modify it
+- Distribute modified versions
+
+Under the condition that:
+- The source code remains available
+- Any modified versions are released under the same licence
+
+📄 For the full licence text, see the **[LICENSE](./LICENSE)** file in this repository.
 
 ---
 
