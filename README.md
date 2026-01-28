@@ -104,7 +104,7 @@ Under the condition that:
 - The source code remains available
 - Any modified versions are released under the same licence
 
-📄 For the full licence text, see the **[LICENSE](./LICENSE)** file in this repository.
+📄 For the full licence text, see the **[LICENCE](./LICENCE)** file in this repository.
 
 ---
 
