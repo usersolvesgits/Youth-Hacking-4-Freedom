@@ -12,7 +12,7 @@
 - **Getting Started** — [Installation & setup](#-getting-started)
 - **Team Members** — [Meet the creators](#-team-members)
 - **Contributing** — [How to help the growth of TODO](#-contributing)
-- **Licence** - [Usage & permissions](#-licence)
+- **Licence** — [Usage & permissions](#-licence)
 - **Acknowledgements** — [Special thanks](#️-acknowledgements--special-thanks)
 
 
